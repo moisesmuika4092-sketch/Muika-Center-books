@@ -1,0 +1,8 @@
+SABER NA PRATICA - App Ingles e Frances (Muika Center 2026)
+
+Todos os ficheiros estao na mesma pasta (sem subpastas). Os 40 audios ja estao dentro do index.html, por isso o app funciona offline depois da primeira abertura.
+
+1) ALOJAR (obrigatorio, uma vez): envie TODOS estes ficheiros para o GitHub Pages (ou outro alojamento HTTPS gratuito). No fim, anote o link https do app.
+2) INSTALAR NO TELEMOVEL SEM APK: abra o link no Chrome e escolha "Instalar app" / "Adicionar ao ecra inicial".
+3) GERAR O APK: abra pwabuilder.com, cole o link do passo 1, escolha o pacote Android e descarregue o APK. Depois instale-o no telemovel (pode ser preciso permitir instalacao de fontes desconhecidas).
+Nota: os passos de sites externos podem mudar; confirme no proprio site.
